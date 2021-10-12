@@ -1,0 +1,53 @@
+{
+  "EdificacionesCiudad": [
+    {
+      "Construccion": "Casa",
+      "Ubicacion": "Valera",
+      "id": 1,
+      "Cantidad": "30",
+      "longitud": "360 metros"
+    },
+    {
+      "Construccion": "Edificios",
+      "Ubicacion": "Bocono",
+      "id": 2,
+      "Cantidad": "20",
+      "longitud": "2000 metros"
+    },
+    {
+      "Construccion": "Apartamentos",
+      "Ubicacion": "La Quebrada",
+      "id": 3,
+      "Cantidad": "15",
+      "Longitud": "1500 metros"
+    },
+    {
+      "Construccion": "Carreteras",
+      "Ubicacion": "Isnotu",
+      "id": 4,
+      "Cantidad": "2",
+      "Longitud": "30 kilometros"
+    },
+    {
+      "Construccion": "Puente",
+      "Ubicacion": "Pampán",
+      "id": 5,
+      "Cantidad": "2",
+      "Longitud": "4 kilometros"
+    },
+    {
+      "Construccion": "Parques",
+      "Ubicacion": "Valera",
+      "id": 6,
+      "Cantidad": "1",
+      "Longitud": "22 kilometros"
+    },
+    {
+      "Construccion": "Zona Comercial",
+      "Ubicacion": "Valera",
+      "id": 7,
+      "Cantidad": "3",
+      "Longitud": "11000 metros"
+    }
+  ]
+}
